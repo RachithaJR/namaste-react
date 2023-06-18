@@ -1,0 +1,17 @@
+// using js
+//   const heading=document.createElement("h1");
+//   heading.innerHTML="Hello World from Javascript!";
+//   const root=document.getElementById("root");
+//   root.appendChild(heading);
+//console.log(heading);This gives us the h1 element since it is javascript.
+//document.createElement always gives us the HTML Element
+
+// using React
+// const heading=React.createElement("h1",{},"Hello world form React!");
+// const root=ReactDOM.createRoot(document.getElementById("root"));
+// root.render(heading);
+
+//console.log(heading);//React.createElement always gives us the object
+
+// How to put id and format of child elements
+/*const heading=React.createElement("h1",{id:"heading",xyz:"abc"},"Hello world form React!");*/

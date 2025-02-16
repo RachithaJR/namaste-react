@@ -53,7 +53,7 @@ const title=<h1><HeadingComponent/>Namaste React using JSX</h1>;
 
 
 
-//infinite loop title and HeadingComponent is used insid eeach other
+//infinite loop title and HeadingComponent is used inside each other
 //if react element used before defining then inifinite loop
 // const HeadingComponent=()=>(<div>
 //   {title}
